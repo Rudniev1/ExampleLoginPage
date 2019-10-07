@@ -1,2 +1,0 @@
-# ExampleLoginPage
-Created with CodeSandbox
